@@ -1,18 +1,18 @@
 # Hi there, I'm Nabhya! 👋
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet&style=flat-square" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=nabhya8013&color=blueviolet&style=flat-square" alt="Profile views" />
   <p><em>Systems enthusiast, AI explorer, and decentralized tech builder.</em></p>
 </div>
 
 ---
 
 ### 🚀 About Me
-- 🔭 **Currently working on:** - **Stigmergic Sentinels:** A multi-pheromone ACO framework for kernel-level task scheduling.
+- 🔭 **Currently working on:** - **Oratio:** An end-to-end VR public speaking simulation system with a custom ML analysis pipeline.
   - **Agile AI Cross-Platform Command Assistant**
-  - **MediVault:** Decentralized health records built on the blockchain.
-- 🌱 **Currently exploring:** Advanced cryptography, compiler design (YACC), and pushing the limits of my Fedora/Hyprland environment.
-- ⚡ **Fun fact:** When I'm not writing code, I'm studying Japanese (JLPT N5), hunting shinies in Pokémon Go, or reading up on Indian constitutional law.
+  - **Stigmergic Sentinels:** A multi-pheromone ACO framework for kernel-level task scheduling **.
+- 🌱 **Currently exploring:** Pushing the limits of my Fedora/Hyprland (Wayland) setup and crafting the perfect desktop environment.
+- ⚡ **Fun fact:** When I'm stepping away from the keyboard, I'm usually reading manga or studying Japanese language and culture.
 
 ---
 
@@ -24,34 +24,39 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-**Web3 & ML**
+**AI, Machine Learning & Data**
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=for-the-badge&logoColor=black)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+
+**Web3 & Frontend**
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
 ---
 
 ### 🏆 Featured Projects
 
-* **[Stigmergic Sentinels](https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME)**
-    * *Multi-pheromone Ant Colony Optimization framework aimed at kernel-level task scheduling.*
-* **[MediVault](https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME)**
-    * *A secure, decentralized health record management system bridging React frontends with Ethereum smart contracts.*
-* **[IR Spectral Denoising Pipeline](https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME)**
+* **[Oratio](https://github.com/nabhya8013/Oratio)**
+    * *A public speaking simulation platform utilizing a Unity VR frontend and an ML pipeline (incorporating Wav2Vec2 and Whisper) to analyze speech metrics like anxiety, confidence, and improvisation.*
+* **[IR Spectral Denoising Pipeline](https://github.com/nabhya8013/spectral_denoise)**
     * *AI-driven tool utilizing Python pipelines for baseline correction and smoothing of complex infrared spectral data.*
+* **[Stigmergic Sentinels](https://github.com/nabhya8013/Stigmergic_Sentinels)**
+    * *Multi-pheromone Ant Colony Optimization framework aimed at kernel-level task scheduling. (Collaborative Project)*
 
 ---
 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=nabhya8013&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabhya8013&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nabhya8013&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
@@ -59,5 +64,5 @@
 ### 📫 Let's Connect!
 <div align="left">
   <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="mailto:nabhyamaheshwari8013@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </div>
